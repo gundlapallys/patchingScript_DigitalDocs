@@ -11,7 +11,7 @@
             <div class="ifx-footer" role="contentinfo">
                 <div class="text-center">
                     <p>
-                        <span class="copyright_info">© 1999 - 2023 Infineon Technologies AG</span>
+                        <span class="copyright_info">© 1999 - <script type="text/javascript">document.write( new Date().getFullYear() );</script> Infineon Technologies AG</span>
                         <span class="important-notice">
                             <a  href="https://www.infineon.com/cms/en/about-infineon/usage-terms/"> &gt; Usage of this website is subject to our Usage Terms</a>&#160;&#160;&#160;
                             <a href="https://www.infineon.com/cms/en/about-infineon/imprint/"> &gt; Imprint</a>&#160;&#160;&#160;
